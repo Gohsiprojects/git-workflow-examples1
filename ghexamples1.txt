@@ -2,4 +2,5 @@ This is my november example! for further studies
 I love doing this all day long
 This is some more examples for future use
 !!!!
+Add some router/switch configs to make life easy!!
 
